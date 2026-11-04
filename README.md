@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="media/title.png" alt="Egkomi City title screen" width="100%">
+  <img src="media/title.png" alt="Redesign the City title screen" width="100%">
 </p>
 
-<h1 align="center">Egkomi City</h1>
+<h1 align="center">Redesign the City</h1>
 
 <p align="center">
   A city-building board game about streets, shade and green space in Egkomi, Nicosia.<br>
@@ -10,18 +10,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/11samy02/egkomi-city/releases/latest"><b>Download 2.0 for Windows</b></a>
+  <a href="https://github.com/11samy02/egkomi-city/releases/latest"><b>Download 3.0 for Windows</b></a>
 </p>
 
 ---
 
 ## How it plays
 
-Every round, each planner buys 4 tiles from a shared construction site and builds them on their own 7x7 city. Homes bring citizens. Everything else keeps them happy.
+Every round, each planner buys 4 tiles from a shared construction site and builds them on their own 14x14 city. Tiles are 1:1 (one square: small homes, kiosks, trees, roads) or 2:2 (four squares: large homes, university, hospital, park). Homes bring citizens. Everything else keeps them happy.
 
 - **Six kinds of citizen**: students, workers, children, older residents, residents with a disability and expats. Each one needs two things nearby (a university and a library, a school and a park, a clinic and a market...), likes a few others, and dislikes one.
 - **Roads** link homes to the places their citizens need. A long walk with no shade heats them up.
-- **Parks and trees** cheer up neighbours, clean the air and shade the roads.
+- **Parks and trees** cheer up neighbours, clean the air and shade the roads next to them.
+- **Prefixed mats**: start on a mat that already has streets and buildings you build around (pick one on the title screen).
 - **Pollution** starts high and drags everyone's mood down until you plant green.
 - **Pricier is better**: a hospital or a supermarket does the same job as a clinic or a market, and also gives +1 happiness to every citizen it serves.
 - **Gold** is tight. A loan helps now but costs more points with every one you take.
@@ -46,7 +47,7 @@ After 8 rounds every citizen scores their happiness, from -5 to +5. A mix of hap
 ## Features
 
 - Pass-and-play for 2 to 4 people, or play solo against Easy, Medium and Hard bots that plan whole cities
-- 128 event and penalty cards, plus 32 hidden circumstances
+- 64 event and penalty cards, plus 24 hidden circumstances
 - Hover any tile to see exactly what it does in your city right now
 - Points preview before you build, with live routes, shade and citizen moods
 - "Name the one change" at the end: each planner picks what would have added the most points
@@ -56,7 +57,7 @@ After 8 rounds every citizen scores their happiness, from -5 to +5. A mix of hap
 ## Play
 
 1. Download the zip from the [latest release](https://github.com/11samy02/egkomi-city/releases/latest).
-2. Unzip it and run `EgkomiCity.exe`.
+2. Unzip it and run `RedesignTheCity.exe`.
 
 Windows 10 or 11, 64-bit. Nothing to install. The **How to play** screen in the game explains every rule.
 
